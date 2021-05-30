@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Format Text Table",
+        "command": "format-text-table:format"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "format-text-table",
+          "submenu": [
+            {
+              "label": "Format Text Table",
+              "command": "format-text-table:format"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
