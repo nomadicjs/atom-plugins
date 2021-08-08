@@ -1,12 +1,9 @@
 {
   "name": "NomadicJS-Atom-Helpers",
-  "main": "./lib/format-text-table",
+  "main": "./lib/index",
   "version": "0.0.0",
   "description": "Helpers from the NomadicJS collection",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "format-text-table:format"
-  },
   "repository": "https://github.com/nomadicjs/atom-plugins",
   "license": "MIT",
   "engines": {
